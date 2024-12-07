@@ -7,18 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>William Nixon</title>
-  <style>
+<style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      /* line-height: 1.8;
-      margin: 40px auto;
-      max-width: 800px; */
       color: #444;
     }
     h1, h2 {
@@ -38,7 +29,6 @@ redirect_from:
     p {
       font-size: 1.2rem;
       margin-bottom: 20px;
-      text-align: justify;
     }
     ul {
       /* font-size: 1.2rem; */
@@ -75,17 +65,16 @@ redirect_from:
     text-decoration: none; 
   }
   </style>
-</head>
-<body>
-  <h1>Hey</h1>
+  
+  <h1>Hello!</h1>
   <p>
-    I'm a final-year Computer Science undergraduate student at 
+    I'm William, a final-year Computer Science undergraduate student at 
     Bandung Institute of Technology (ITB), Indonesia.
   </p>
   <p>
-    I have 2 years of experience conducting research with 
-    <a href="https://people.cs.uchicago.edu/~haryadi/" target="_blank">Prof. Haryadi Gunawi</a> 
-    on the intersection between <b>machine learning</b> and <b>systems</b>.
+  I'm super grateful for the chance to spend 2 years working with 
+  <a href="https://people.cs.uchicago.edu/~haryadi/" target="_blank">Prof. Haryadi Gunawi</a> and <a href="https://rayandrew.me/" target="_blank"> Ray Andrew</a>
+  on cool projects at the intersection of <b>machine learning</b> and <b>systems</b>.
   </p>
   
   <h2>News</h2>
@@ -95,7 +84,7 @@ redirect_from:
     email
     </a>
      — I'd love to connect!</li>
-    <li><b>Sep. 2024:</b> SEACrowd is up on EMNLP '24! I helped curate and standardize Southeast Asian NLP datasets.</li>
+    <li><b>Sep. 2024:</b> SEACrowd is up on EMNLP '24! I helped in curating and standardizing Southeast Asian NLP datasets.</li>
   </ul>
 
   <h2>Publications</h2>
@@ -109,7 +98,7 @@ redirect_from:
       H. Lovenia, R. Mahendra, S. M. Akbar, L. J. Miranda, J. Santoso, ... 
       <b>W. Nixon</b>, ... S. Cahyawijaya. 
       “<i>SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages</i>.” 
-      In Proceedings of the <span style="font-style: italic;">Empirical Methods in Natural Language Processing (EMNLP), 2024</span>.
+      In Proceedings of the <span style="font-style: italic;">Empirical Methods in Natural Language Processing (EMNLP), 2024</span>. <a href="https://aclanthology.org/2024.emnlp-main.296.pdf" target="_blank">Link</a>
     </li>
   </ul>
 
@@ -122,6 +111,3 @@ redirect_from:
       <li>Introduction to Programming</li>
     </ul>
   </div>
-
-</body>
-</html>
