@@ -79,7 +79,7 @@ redirect_from:
   
   <h2>News</h2>
   <ul>
-    <li><b>Dec. 2024:</b> I'm applying to Ph.D. programs in systems. Feel free to reach out to me via 
+    <li><b>Dec. 2024:</b> I'm applying to M.S. and Ph.D. programs in systems. Feel free to reach out to me via 
     <a href="mailto:williamnixon20@gmail.com" target="_blank">
     email
     </a>
