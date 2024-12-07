@@ -20,7 +20,6 @@ redirect_from:
       margin: 40px auto;
       max-width: 800px; */
       color: #444;
-      margin-left: 50px;
     }
     h1, h2 {
       color: #0056b3;
