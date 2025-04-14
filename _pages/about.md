@@ -115,11 +115,11 @@ redirect_from:
   </div>
 
   <h2>Miscellaneous</h2>
-  <p> In my spare time, I love to cook. It's calming, and I get to enjoy a great meal every time.
+  <!-- <p> In my spare time, I love to cook. It's calming, and I get to enjoy a great meal every time.
   </p>
   <p>
     My given Chinese name is 林伟伦, though my Chinese isn't so great, I'm working on it! 
-  </p>
+  </p> -->
   <p>
     Meet Bonbon
   </p>
