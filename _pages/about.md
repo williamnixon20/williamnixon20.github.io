@@ -95,7 +95,7 @@ redirect_from:
     <li>
       S. Cahyawijaya, H. Lovenia, J. R. A. Moniz, T. H. Wong, M. R. Farhansyah, ... <b>W. Nixon</b>, ... P. Limkonchotiwat. 
       ”<i>Crowd-
-    source, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia</i>”. <span style="font-style: italic;">In
+    source, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia</i>." <span style="font-style: italic;">In
     Proceedings of the Association for Computational Linguistics (ACL), 2025</span>. <a href="https://aclanthology.org/2025.acl-long.916.pdf" target="_blank">Link</a>
     </li>
     <li>
