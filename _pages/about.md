@@ -68,33 +68,35 @@ redirect_from:
   
   <h1>Hello!</h1>
   <p>
-    I'm William, a final-year Computer Science undergraduate at the 
-    Bandung Institute of Technology (ITB), Indonesia. 
+    I'm William, a first-year Ph.D. student in Computer Science at the 
+    University of Chicago.
   </p>
   <p>
-    I'm super grateful for the chance to spend the last 2 years working with 
-    <a href="https://people.cs.uchicago.edu/~haryadi/" target="_blank">Prof. Haryadi S. Gunawi</a> and 
-    <a href="https://rayandrew.me/" target="_blank">Ray Andrew</a> on projects exploring topics like 
-    <b>continual learning</b>, <b>caching systems</b>, and <b>data drift mitigation</b>.
+    I’ve been fortunate to work with 
+    <a href="https://people.cs.uchicago.edu/~haryadi/" target="_blank">Prof. Haryadi S. Gunawi</a> 
+    and <a href="https://rayandrew.me/" target="_blank">Ray Andrew</a> on projects involving <b>workload drift in systems</b> and <b>model data stalls</b>.
   </p>
   <p>
-    I'm also honored to be part of the <a href="https://github.com/SEACrowd" target="_blank">SEACrowd Project</a>, an initiative to bridge the resource gap for underrepresented Southeast Asian languages.
+    I'm also part of the <a href="https://github.com/SEACrowd" target="_blank">SEACrowd Project</a>, an initiative to bridge the resource gap for underrepresented Southeast Asian languages.
+  </p>
+  <p>
+  Feel free to reach out to me via 
+    <a href="mailto:williamnixon20@gmail.com" target="_blank">
+    email</a>. I'd love to connect!
   </p>
   
   <h2>News</h2>
   <ul>
-    <li><b>Dec. 2024:</b> I'm applying to M.S. and Ph.D. programs in systems. Feel free to reach out to me via 
-    <a href="mailto:williamnixon20@gmail.com" target="_blank">
-    email</a>. I'd love to connect!</li>
-    <!-- <li><b>Sep. 2024:</b> SEACrowd is up on EMNLP '24! I helped in curating and standardizing Southeast Asian NLP datasets.</li> -->
+    <li><b>Sep. 2025:</b> I'm starting my Ph.D. Program at University of Chicago!</li>
+    <li><b>Dec. 2024:</b> I'm applying to M.S. and Ph.D. programs in systems.</li>
   </ul>
-
   <h2>Publications</h2>
   <ul>
     <li>
-      <b>W. Nixon*</b>, R. A. O. Sinurat*, A. I. Kistijantoro, H. S. Gunawi. 
-      “<i>Data Drift Mitigation In Learned Caches</i>.” 
-      Manuscript available upon request. <span style="font-style: italic;">In Preparation.</span>
+      S. Cahyawijaya, H. Lovenia, J. R. A. Moniz, T. H. Wong, M. R. Farhansyah, ... <b>W. Nixon</b>, ... P. Limkonchotiwat. 
+      ”<i>Crowd-
+    source, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia</i>”. <span style="font-style: italic;">In
+    Proceedings of the Association for Computational Linguistics (ACL), 2025</span>. <a href="https://aclanthology.org/2025.acl-long.916.pdf" target="_blank">Link</a>
     </li>
     <li>
       H. Lovenia, R. Mahendra, S. M. Akbar, L. J. Miranda, J. Santoso, ... 
