@@ -65,26 +65,27 @@ redirect_from:
     text-decoration: none; 
   }
   </style>
-  
   <h1>Hello!</h1>
   <p>
-    I'm William, a first-year Ph.D. student in Computer Science at the 
+    I'm William, a Ph.D. student in Computer Science at the 
     University of Chicago.
   </p>
+
   <p>
-    I’ve been fortunate to work with 
+    I work on systems and machine learning, especially around caching, storage.
+  </p>
+
+  <p>
+    I'm fortunate to be advised by 
     <a href="https://people.cs.uchicago.edu/~haryadi/" target="_blank">Prof. Haryadi S. Gunawi</a> 
-    and <a href="https://rayandrew.me/" target="_blank">Ray Andrew</a> on projects involving <b>workload drift in systems</b> and <b>model data stalls</b>.
-  </p>
-  <p>
-    I'm also part of the <a href="https://github.com/SEACrowd" target="_blank">SEACrowd Project</a>, an initiative to bridge the resource gap for underrepresented Southeast Asian languages.
-  </p>
-  <p>
-  Feel free to reach out to me via 
-    <a href="mailto:williamnixon20@gmail.com" target="_blank">
-    email</a>. I'd love to connect!
+    and <a href="https://junchengyang.com/" target="_blank">Prof. Juncheng Yang</a>.
   </p>
   
+  <p>
+    Feel free to reach out via 
+    <a href="mailto:williamnixon20@gmail.com" target="_blank">email</a> — always happy to chat!
+  </p>
+
   <h2>News</h2>
   <ul>
     <li><b>Sep. 2025:</b> I'm starting my Ph.D. Program at University of Chicago!</li>
@@ -105,7 +106,7 @@ redirect_from:
       In Proceedings of the <span style="font-style: italic;">Empirical Methods in Natural Language Processing (EMNLP), 2024</span>. <a href="https://aclanthology.org/2024.emnlp-main.296.pdf" target="_blank">Link</a>
     </li>
   </ul>
-
+<!-- 
   <h2>Services</h2>
   <div class="services">
     <p>Teaching Assistant - Bandung Institute of Technology</p>
@@ -114,7 +115,7 @@ redirect_from:
       <li>Discrete Mathematics</li>
       <li>Introduction to Programming</li>
     </ul>
-  </div>
+  </div> -->
 
   <h2>Miscellaneous</h2>
   <p>
