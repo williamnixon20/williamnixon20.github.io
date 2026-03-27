@@ -67,12 +67,12 @@ redirect_from:
   </style>
   <h1>Hello!</h1>
   <p>
-    I'm William, a Ph.D. student in Computer Science at the 
+    I'm William, a 1st year Ph.D. student in Computer Science at the 
     University of Chicago.
   </p>
 
   <p>
-    I work on systems and machine learning, especially around caching, storage.
+    I work on systems and machine learning, especially around caching and storage.
   </p>
 
   <p>
