@@ -83,10 +83,11 @@ redirect_from:
   
   <p>
     Feel free to reach out via 
-    <a href="mailto:williamnixon20@gmail.com" target="_blank">email</a> — always happy to chat!
+    <a href="mailto:williamnixon20@gmail.com" target="_blank">email</a>, always happy to chat!
   </p>
   <h2>Publications</h2>
   <ul>
+    <li> Ray A. O. Sinurat, <b>William Nixon</b>, Haryadi S. Gunawi, Nikoli Dryden, Hariharan Devarajan. “<i>Horatio: Bridging Management and Analysis of Traces at Scale</i>.” In Proceedings of the <span style="font-style: italic;">International Conference on Scalable Scientific Data Management (SSDBM), 2026</span>. </li>
     <li>
       Ray A. Sinurat, <b>William Nixon</b>, Philip Carns, Huihuo Zheng, Sandeep Madireddy, Sam Foreman, Troy Arcomano,
       Robert Ross, Haryadi S. Gunawi, Hariharan Devarajan.
@@ -104,26 +105,14 @@ redirect_from:
       Samuel Cahyawijaya, Holy Lovenia, Joel R. A. Moniz, ... <b>William Nixon</b>, ... Peerat Limkonchotiwat.
       “<i>Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia</i>.”
       In Proceedings of the <span style="font-style: italic;">Association for Computational Linguistics (ACL), 2025</span>.
-      <a href="https://aclanthology.org/2025.acl-long.916.pdf" target="_blank">Link</a>
     </li>
 
     <li>
       Holy Lovenia, Rahmad Mahendra, Salsabil M. Akbar, ... <b>William Nixon</b>, ... Samuel Cahyawijaya.
       “<i>SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages</i>.”
       In Proceedings of the <span style="font-style: italic;">Empirical Methods in Natural Language Processing (EMNLP), 2024</span>.
-      <a href="https://aclanthology.org/2024.emnlp-main.296.pdf" target="_blank">Link</a>
     </li>
   </ul>
-<!-- 
-  <h2>Services</h2>
-  <div class="services">
-    <p>Teaching Assistant - Bandung Institute of Technology</p>
-    <ul>
-      <li>Probability and Statistics</li>
-      <li>Discrete Mathematics</li>
-      <li>Introduction to Programming</li>
-    </ul>
-  </div> -->
 
   <h2>Miscellaneous</h2>
   <p>
