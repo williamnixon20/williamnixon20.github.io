@@ -67,38 +67,43 @@ redirect_from:
   </style>
   <h1>Hello!</h1>
   <p>
-    I'm William, a 1st year Ph.D. student in Computer Science at the 
+    I'm William, a 2nd year Ph.D. student in Computer Science at the
     University of Chicago.
   </p>
 
   <p>
-    I work on systems and machine learning, especially around caching and storage.
+    I work on efficient systems for caching, storage, memory management, and LLM serving.
   </p>
 
   <p>
-    I'm fortunate to be advised by 
-    <a href="https://people.cs.uchicago.edu/~haryadi/" target="_blank">Prof. Haryadi S. Gunawi</a> 
+    I'm fortunate to be advised by
+    <a href="https://people.cs.uchicago.edu/~haryadi/" target="_blank">Prof. Haryadi S. Gunawi</a>
     and <a href="https://junchengyang.com/" target="_blank">Prof. Juncheng Yang</a>.
   </p>
-  
+
   <p>
-    Feel free to reach out via 
+    Feel free to reach out via
     <a href="mailto:williamnixon20@gmail.com" target="_blank">email</a>, always happy to chat!
   </p>
   <h2>Publications</h2>
   <ul>
-    <li> Ray A. O. Sinurat, <b>William Nixon</b>, Haryadi S. Gunawi, Nikoli Dryden, Hariharan Devarajan. “<i>Horatio: Bridging Management and Analysis of Traces at Scale</i>.” In Proceedings of the <span style="font-style: italic;">International Conference on Scalable Scientific Data Management (SSDBM), 2026</span>. </li>
-    <li>
-      Ray A. Sinurat, <b>William Nixon</b>, Philip Carns, Huihuo Zheng, Sandeep Madireddy, Sam Foreman, Troy Arcomano,
-      Robert Ross, Haryadi S. Gunawi, Hariharan Devarajan.
-      “<i>SysX: Taming I/O Optimization for Deep Learning at Scale</i>.”
-      In Proceedings of the <span style="font-style: italic;">ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2026</span>.
-    </li>
-
     <li>
       Haocheng Xia, <b>William Nixon</b>, Bintang Dwi Marthen, Pranav Bhandari, Juncheng Yang.
       “<i>Learning-Augmented Heuristics: Simple yet Smart, Robust and Interpretable Cache Eviction</i>.”
       In Proceedings of the <span style="font-style: italic;">USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2026</span>.
+    </li>
+
+    <li>
+      Ray A. O. Sinurat, <b>William Nixon</b>, Philip Carns, Huihuo Zheng, Sandeep Madireddy, Sam Foreman, Troy Arcomano,
+      Robert Ross, Haryadi S. Gunawi, Hariharan Devarajan.
+      “<i>GLANCED-IO: Taming I/O Optimization for Deep Learning at Scale</i>.”
+      In Proceedings of the <span style="font-style: italic;">ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2026</span>.
+    </li>
+
+    <li>
+      Ray A. O. Sinurat, <b>William Nixon</b>, Haryadi S. Gunawi, Nikoli Dryden, Hariharan Devarajan.
+      “<i>HORATIO: Bridging Management and Analysis of Traces at Scale</i>.”
+      In Proceedings of the <span style="font-style: italic;">International Conference on Scientific and Statistical Database Management (SSDBM), 2026</span>.
     </li>
 
     <li>
@@ -114,9 +119,30 @@ redirect_from:
     </li>
   </ul>
 
+  <h2>Preprints</h2>
+  <ul>
+    <li>
+      <b>William Nixon</b>, Muxin Tian, Yunjia Zheng, Haryadi S. Gunawi, Juncheng Yang.
+      “<i>From Requests to Sessions: A Large-Scale Characterization of Human-Driven Agentic Workloads</i>.”
+      <span style="font-style: italic;">In submission, 2026</span>.
+    </li>
+
+    <li>
+      <b>William Nixon</b>, Jon Durbin, Florian Standhartinger, Haryadi S. Gunawi, Juncheng Yang.
+      “<i>A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing</i>.”
+      <span style="font-style: italic;">In submission, 2026</span>.
+      [<a href="https://arxiv.org/abs/2608.13573" target="_blank">arXiv</a>]
+    </li>
+
+    <li>
+      Hongshu Yan, Yunjia Zheng, <b>William Nixon</b>, Yazhuo Zhang, Pranav Bhandari, Haryadi S. Gunawi, Ana Klimovic, Juncheng Yang.
+      “<i>Demystifying and Optimizing Slab Rebalance in Memory Caches</i>.”
+      <span style="font-style: italic;">In submission, 2026</span>.
+    </li>
+  </ul>
+
   <h2>Miscellaneous</h2>
   <p>
     Meet Bonbon
   </p>
   <img src="/images/705465.jpg" alt="Bonbon the poodle" style="width:200px; height:auto; border-radius:10px;">
-
